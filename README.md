@@ -1,3 +1,5 @@
-# Demo food site
+# food site
 
-Demo project of a food website
+Learning project of a food website.
+
+Project solely created to learn html css
